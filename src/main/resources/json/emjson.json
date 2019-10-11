@@ -1,0 +1,24 @@
+{
+   "companyname":"My company",
+   "employees":[
+      {
+         "FirstName":"Elaine",
+         "LastName":"Marley",
+         "salary":500,
+         "status":"CEO"
+      },
+      {
+         "FirstName":"Gordon",
+         "LastName":"Freeman",
+         "salary":100,
+         "status":"Scientist"
+      },
+      {
+         "FirstName":"Saara",
+         "LastName":"Pakarinen",
+         "salary":80,
+         "status":"Codemonkey"
+      }
+   ]
+}
+

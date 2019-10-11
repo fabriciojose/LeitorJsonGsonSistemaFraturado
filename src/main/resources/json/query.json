@@ -1,0 +1,328 @@
+{
+ "objectIdFieldName": "OBJECTID",
+ "globalIdFieldName": "GlobalID",
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4674,
+  "latestWkid": 4674
+ },
+ "fields": [
+  {
+   "name": "USUARIO",
+   "alias": "Nome do usuário",
+   "type": "esriFieldTypeString",
+   "length": 254
+  },
+  {
+   "name": "CPF_CNPJ",
+   "alias": "CPF ou CNPJ do usuário",
+   "type": "esriFieldTypeString",
+   "length": 254
+  },
+  {
+   "name": "LOGRADOURO",
+   "alias": "Endereço da captação",
+   "type": "esriFieldTypeString",
+   "length": 254
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "USUARIO": "VALDECI JOSÉ SANTANA",
+    "CPF_CNPJ": "32705522115",
+    "LOGRADOURO": "NUCLEO RURAL BANANAL, CHACARA 18"
+   },
+   "geometry": {
+    "x": -47.903988759999947,
+    "y": -15.724957165999967
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "FELICIANO GARCIA SANTANA",
+    "CPF_CNPJ": "8191034891",
+    "LOGRADOURO": "NÚCLEO RURAL QUEBRADA DOS GUIMARÃES, LOTES 30 E 31, CHÁCARA GABRIELA"
+   },
+   "geometry": {
+    "x": -47.65973474599997,
+    "y": -15.876445153999953
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "ELIAS SANTANA DA SILVA",
+    "CPF_CNPJ": "27407900159",
+    "LOGRADOURO": "NÚCLEO RURAL ZUMBI DOS PALMARES, LOTE 15, QD. 102, CJ.16, CASA 7"
+   },
+   "geometry": {
+    "x": -47.765568869999981,
+    "y": -15.938635938999937
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "JOSÉ THADEU SANTANA DE CAR",
+    "CPF_CNPJ": "41292790768",
+    "LOGRADOURO": "SHVP CHÁCARA 26, LOTE 89"
+   },
+   "geometry": {
+    "x": -48.005906845999959,
+    "y": -15.78822123599997
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "MARIA ABADIA SANTANA ALBERNAZ",
+    "CPF_CNPJ": "02915057168",
+    "LOGRADOURO": "EPPR DF 005, MI 09, CHÁCARA 15"
+   },
+   "geometry": {
+    "x": -47.808173796999938,
+    "y": -15.767692542999953
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "MARISTELA SANTANA DE AMORIM RIBEIRO",
+    "CPF_CNPJ": "58380000153",
+    "LOGRADOURO": "SMPW, QUADRA 04, CONJUNTO 05, CHÁCARA 84, LOTE 16"
+   },
+   "geometry": {
+    "x": -48.008736093999971,
+    "y": -15.869080745999952
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "ANGELA MARIA SANTANA CARVALHO",
+    "CPF_CNPJ": "15345335168",
+    "LOGRADOURO": "LOTE 11 DO NÚCLEO RURAL MONJOLO"
+   },
+   "geometry": {
+    "x": -48.052627633999975,
+    "y": -15.942417473999967
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "JOÃO CARLOS DE FARIA SANTANA",
+    "CPF_CNPJ": "24488623115",
+    "LOGRADOURO": "RUA 12/13, CHACARA 330 E 335, NUCLEO RURAL LAGO OESTE"
+   },
+   "geometry": {
+    "x": -47.96361703599996,
+    "y": -15.605302390999952
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "JOÃO CARLOS DE FARIA SANTANA",
+    "CPF_CNPJ": "24488623115",
+    "LOGRADOURO": "RUA 12/13, CHACARA 330 E 335, NUCLEO RURAL LAGO OESTE"
+   },
+   "geometry": {
+    "x": -47.964724842999942,
+    "y": -15.606100149999975
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "JOÃO EDGAR DE SANTANA",
+    "CPF_CNPJ": "62669613691",
+    "LOGRADOURO": "RUA 15, CHACARA 480, NUCLEO RURAL LAGO OESTE"
+   },
+   "geometry": {
+    "x": -47.976779959999931,
+    "y": -15.59636613999993
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "ANA TECLA TORRES DE SANTANA",
+    "CPF_CNPJ": "00075922134",
+    "LOGRADOURO": "RUA 12, CHACARA 317, NUCLEO RURAL LAGO OESTE"
+   },
+   "geometry": {
+    "x": -47.958830435999971,
+    "y": -15.603399086999957
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "PAULO SANTANA DE OLIVEIRA",
+    "CPF_CNPJ": "40000079120",
+    "LOGRADOURO": " "
+   },
+   "geometry": {
+    "x": -48.205102611999962,
+    "y": -15.689247889999933
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "ZENEIDE ELIAS DE SANTANA",
+    "CPF_CNPJ": "94809860191",
+    "LOGRADOURO": "CHACARA CANAA NUMERO 08, QUADRA M, SETOR MARANATA"
+   },
+   "geometry": {
+    "x": -48.235009153999954,
+    "y": -15.693743995999967
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "FRANCISCO DA CONCEIÇÃO SANTANA",
+    "CPF_CNPJ": "53879546134",
+    "LOGRADOURO": "ASSENTRAMENTO PEQUENO WILLIAM, LOTE 18"
+   },
+   "geometry": {
+    "x": -47.701969686999973,
+    "y": -15.687008791999972
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "JUCIMAR SANTANA DE PAULA",
+    "CPF_CNPJ": "58813152191",
+    "LOGRADOURO": "NÚCLEO RURAL SANTOS DUMONT, PARTE ALTA, CHÁCARA MESTRE D'ARMAS/GABRIELA"
+   },
+   "geometry": {
+    "x": -47.607333396999934,
+    "y": -15.693083238999975
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "MAGALI SANTANA DE OLIVEIRA",
+    "CPF_CNPJ": "53915518115",
+    "LOGRADOURO": "NÚCLEO RUAL RAJADINHA 01, CHÁCARA 19-C, GLEBA 5"
+   },
+   "geometry": {
+    "x": -47.650442955999949,
+    "y": -15.734910466999963
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "JOSÉ ELSON DE SANTANA",
+    "CPF_CNPJ": "50584065191",
+    "LOGRADOURO": "RODOVIA BR 060, KM 19, FAZENDA BURITIZAL DOS ALVES"
+   },
+   "geometry": {
+    "x": -48.189013695999961,
+    "y": -15.97760449499998
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "MARISTELA SANTANA DE AMORIM RIBEIRO",
+    "CPF_CNPJ": "58380000153",
+    "LOGRADOURO": "SMPW, QUADRA 04, CONJUNTO 05, CHÁCARA 84, LOTE 16"
+   },
+   "geometry": {
+    "x": -48.007973596999932,
+    "y": -15.867696204999959
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "LUCILENE SANTANA DE OLIVEIRA",
+    "CPF_CNPJ": "43333315115",
+    "LOGRADOURO": "CHÁCARA 19-C, GLEBA 4, FAZENDA VÁRZEAS, RAJADINHA I"
+   },
+   "geometry": {
+    "x": -47.65044342799996,
+    "y": -15.734438387999944
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "SAMIRO SANTANA DAMASCIANO XAVIER",
+    "CPF_CNPJ": "15112438134",
+    "LOGRADOURO": "RODOVIA DF 001, CHÁCARA DOM BOSCO, SETOR ALTIPLANO LESTE"
+   },
+   "geometry": {
+    "x": -47.735135317999948,
+    "y": -15.823838034999937
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "LOURDES CONCEIÇÃO SANTANA",
+    "CPF_CNPJ": "03293823149",
+    "LOGRADOURO": "NÚCLEO RURAL TAGUATINGA, QSC 19, CHÁCARA 24, GLEBA D"
+   },
+   "geometry": {
+    "x": -48.055391879999945,
+    "y": -15.852058013999965
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "LOURDES CONCEIÇÃO SANTANA",
+    "CPF_CNPJ": "03293823149",
+    "LOGRADOURO": "NÚCLEO RURAL TAGUATINGA, QSC 19, CHÁCARA 24, GLEBA D"
+   },
+   "geometry": {
+    "x": -48.055319467999936,
+    "y": -15.852455354999961
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "ELIAS FERNANDES SANTANA",
+    "CPF_CNPJ": "39886379120",
+    "LOGRADOURO": "RODOVIA DF 475, CHÁCARA 03"
+   },
+   "geometry": {
+    "x": -48.058328340999935,
+    "y": -15.958326976999956
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "ADALÍCIO ASSIS DE SANTANA",
+    "CPF_CNPJ": "71569600163",
+    "LOGRADOURO": "GRUPO Nº 002, CHÁCARA Nº 006"
+   },
+   "geometry": {
+    "x": -47.470672340999954,
+    "y": -15.519951372999969
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "LOURDES CONCEIÇÃO SANTANA",
+    "CPF_CNPJ": "03293823149",
+    "LOGRADOURO": "COLÔNIA AGRÍCOLA SAMAMBAIA, CHÁCARA 106 A, CASA 127"
+   },
+   "geometry": {
+    "x": -48.055388167999979,
+    "y": -15.808562808999966
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "ROSA SANTANA",
+    "CPF_CNPJ": null,
+    "LOGRADOURO": "ASSENTAMENTO MÁRCIA CORDEIRO LEITE CHÁCARA Nº 68"
+   },
+   "geometry": {
+    "x": -47.69712065899995,
+    "y": -15.54227312699993
+   }
+  },
+  {
+   "attributes": {
+    "USUARIO": "WALTER SANTANA FEITOSA FIGUEIREDO",
+    "CPF_CNPJ": null,
+    "LOGRADOURO": "QUINHÃO 11 KM 250 CHACARA VALVERDE SOBRADINHO DOS MELOS"
+   },
+   "geometry": {
+    "x": -47.695837022999967,
+    "y": -15.771643771999948
+   }
+  }
+ ]
+}
